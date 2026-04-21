@@ -1,4 +1,4 @@
-# Boggi Search API
+#  Search API
 
 API FastAPI che legge il catalogo `data/products.csv` e restituisce prodotti rilevanti in JSON.
 
